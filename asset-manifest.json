@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hebercruz384.github.io/csb-sy1c3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hebercruz384.github.io/csb-sy1c3/static/js/main.af815d7f.chunk.js",
+    "main.js.map": "https://hebercruz384.github.io/csb-sy1c3/static/js/main.af815d7f.chunk.js.map",
+    "runtime-main.js": "https://hebercruz384.github.io/csb-sy1c3/static/js/runtime-main.7c5b9a2b.js",
+    "runtime-main.js.map": "https://hebercruz384.github.io/csb-sy1c3/static/js/runtime-main.7c5b9a2b.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://hebercruz384.github.io/csb-sy1c3/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://hebercruz384.github.io/csb-sy1c3/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://hebercruz384.github.io/csb-sy1c3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hebercruz384.github.io/csb-sy1c3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://hebercruz384.github.io/csb-sy1c3/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c5b9a2b.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.af815d7f.chunk.js"
+  ]
+}
